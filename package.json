@@ -1,0 +1,22 @@
+{
+  "name": "mep-utilities.no-print",
+  "version": "1.0.0",
+  "description": "No Print Utility",
+  "main": "stylesheets/_utility-no-print.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "utility-no-print",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/utilities.no-print.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
